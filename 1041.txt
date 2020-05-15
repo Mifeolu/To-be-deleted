@@ -1,0 +1,35 @@
+TrakPro Version 4.70 ASCII Data File
+
+Model:	DustTrak DRX
+Model Number:	8534
+Serial Number:	8534091004
+Test ID:	013
+Test Abbreviation:	MANUAL_013
+Start Date:	11/29/2017
+Start Time:	11:41:18
+Duration (dd:hh:mm:ss):	0:00:01:00
+Log Interval (mm:ss):	00:10
+Number of points:	6
+Notes:	
+
+Statistics	Channel:	PM1	PM2.5	RESP	PM10	TOTAL
+	Units:	mg/m^3	mg/m^3	mg/m^3	mg/m^3	mg/m^3
+	Average:	0.014	0.014	0.015	0.017	0.020
+	Minimum:	0.013	0.013	0.014	0.015	0.015
+	Time of Minimum:	11:41:48	11:41:48	11:41:38	11:41:28	11:42:18
+	Date of Minimum:	11/29/2017	11/29/2017	11/29/2017	11/29/2017	11/29/2017
+	Maximum:	0.017	0.017	0.018	0.021	0.029
+	Time of Maximum:	11:42:08	11:42:08	11:42:08	11:42:08	11:42:08
+	Date of Maximum:	11/29/2017	11/29/2017	11/29/2017	11/29/2017	11/29/2017
+
+Calibration	Sensor:	AEROSOL
+	Cal. date	06/30/2014
+
+Date	Time	PM1	PM2.5	RESP	PM10	TOTAL
+MM/dd/yyyy	hh:mm:ss	mg/m^3	mg/m^3	mg/m^3	mg/m^3	mg/m^3
+11/29/2017	11:41:28	0.014	0.014	0.015	0.015	0.021
+11/29/2017	11:41:38	0.014	0.014	0.014	0.017	0.022
+11/29/2017	11:41:48	0.013	0.013	0.014	0.017	0.017
+11/29/2017	11:41:58	0.013	0.013	0.014	0.016	0.016
+11/29/2017	11:42:08	0.017	0.017	0.018	0.021	0.029
+11/29/2017	11:42:18	0.013	0.013	0.014	0.015	0.015
